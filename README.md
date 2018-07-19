@@ -54,4 +54,4 @@ which originally look like
 
 There is no special entries like space or new line yet.
 
-- `S#`: Set space as empty string. In order not to output spaces between strokes.
+- `S#`: Set an empty string as a space in order not to output spaces between strokes.
