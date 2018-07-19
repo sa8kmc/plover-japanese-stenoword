@@ -7,7 +7,7 @@ The Japanese StenoWord stenography system for Plover.
 After installing this plugin, you need to turn it on in Plover:
 
 1. In Plover's configuration, go to the ``Systems`` tab, and change the active system to ``Japanese StenoWord``.
-2. You will need a Tréal machine to use this theory.
+2. You can use either a Qwerty keyboard or a keyboard speaking TxBolt (e.g. SOFT/HRUF Splitography) to use this theory.
 
 ## Layout
 
