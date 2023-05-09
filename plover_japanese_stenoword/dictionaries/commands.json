@@ -1,3 +1,10 @@
 {
-  "S#": "{MODE:SET_SPACE:}"
+  "$": "{#Return}",
+  "12": "{#Alt_L(grave)}",
+  "13": "{#Shift_L(Left)}",
+  "14": "{#Shift_L(Right)}",
+  "23": "{#Up}",
+  "24": "{#Down}",
+  "3": "{#Left}",
+  "4": "{#Right}"
 }
